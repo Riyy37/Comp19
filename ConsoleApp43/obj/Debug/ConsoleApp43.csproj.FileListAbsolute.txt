@@ -1,0 +1,7 @@
+C:\Users\Администратор\Desktop\Project\ConsoleApp43\bin\Debug\ConsoleApp43.exe.config
+C:\Users\Администратор\Desktop\Project\ConsoleApp43\bin\Debug\ConsoleApp43.exe
+C:\Users\Администратор\Desktop\Project\ConsoleApp43\bin\Debug\ConsoleApp43.pdb
+C:\Users\Администратор\Desktop\Project\ConsoleApp43\obj\Debug\ConsoleApp43.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Project\ConsoleApp43\obj\Debug\ConsoleApp43.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Project\ConsoleApp43\obj\Debug\ConsoleApp43.exe
+C:\Users\Администратор\Desktop\Project\ConsoleApp43\obj\Debug\ConsoleApp43.pdb
